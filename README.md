@@ -91,7 +91,9 @@ Methods:
 
 # Installation
 
-''' pip install general-distribution '''
+!pip install general-distribution
+
+https://pypi.org/project/general-distribution/
 
 * The code should run with no issues using Python versions 3.*.
 * No extra besides the built-in libraries from Anaconda needed to run this project
